@@ -1,0 +1,15 @@
+.banner {
+  color: rgb(255,255,255);
+  height: 500px;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.banner .container p {
+  margin-bottom: 30px;
+  color: rgb(220,220,220);
+  font-size: 18px;
+  font-style: italic;
+}
